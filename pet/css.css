@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: tahoma;
+    font-family: Poppins, sans-serif;
 }
 
 body.imagem {
@@ -13,10 +13,10 @@ align-items: center;
 
 .paragrafo {
     font-size: 100%;
-    max-width: 800px;
+    max-width: 1000px;
     text-align: justify;
-    margin-right: 580px;
     color: #3d3535;
+    text-align: center;
     
 }
 
